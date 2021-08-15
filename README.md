@@ -4,7 +4,13 @@
 
 - 🌱 I’m currently learning **JavaScript**
 - 👨‍💻 All of my projects are available at **[portfolio](https://nikhil-belide.netlify.app/)**
-- - 📝 I do write articles on **[dev.to/belidenikhil](https://dev.to/belidenikhil)**
+- 📝 I do write articles on **[dev.to/belidenikhil](https://dev.to/belidenikhil)**
+
+<p align="left">
+<h3 align="left">Connect with me:</h3>
+<a href="https://twitter.com/Nikhil_Belide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="belide" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nikhilbelide/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil" height="30" width="40" /></a>
+</p>
 
 
 
