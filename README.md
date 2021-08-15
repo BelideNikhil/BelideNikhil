@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BelideNikhil&label=Profile%20views&color=blueviolet&style=flat-square" alt="himadri2110" /> </p>
 
 - 🌱 I’m currently learning **JavaScript**
-- 👨‍💻 All of my projects are available at **[https://cutt.ly/NikhilBelide](https://nikhil-belide.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[NikhilBelide](https://nikhil-belide.netlify.app/)**
 - 📝 I do write articles on **[dev.to/belidenikhil](https://dev.to/belidenikhil)**
 
 <p align="left">
